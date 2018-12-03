@@ -48,4 +48,7 @@ angular.module('directivesQuizApp')
         }
       }
     };
+    this.buy = function() {
+
+    };
   });
